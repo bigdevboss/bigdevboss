@@ -8,4 +8,4 @@
 
    [Roblox assembler interpreter & DLL libs loader](https://github.com/bigdevboss/roblox-assembler)
 ### C/Assembler:
-   [Microkernel with own bootloader](https://github.com/bigdevboss/mich-core)
+   [Hybrid kernel with own bootloader](https://github.com/bigdevboss/mich-core)
